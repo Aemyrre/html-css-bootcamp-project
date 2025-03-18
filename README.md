@@ -17,7 +17,7 @@ This is a fully responsive website for a meal subscription service, designed to 
 
 ## Acknowledgment
 
-This project was built as part of the "Modern HTML and CSS" course by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-build-beautiful-responsive-websites/), an excellent resource for mastering responsive web design and CSS fundamentals.
+This project was built as part of the "Modern HTML and CSS" course by [Jonas Schmedtmann](https://www.udemy.com/share/101Wtc/), an excellent resource for mastering responsive web design and CSS fundamentals.
 
 ## How to Run
 
